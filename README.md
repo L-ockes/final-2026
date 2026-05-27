@@ -2,7 +2,7 @@
 
 ## Documentos
 
-- [Documentación](./Documentacion.pdf)
+- [Documentacion.pdf](Documentacion.pdf)
 - [Diapositivas](./diapositivas%20final.pdf)
 
 ## Enlaces

@@ -4,9 +4,7 @@
 
 - [Página del proyecto](https://visita-quibdo2.onrender.com)
   
-   superadmin
-  
-   carr20000111@gmail.com
+   superadmin correo: carr20000111@gmail.com
   
    contraseña: carlos2025
   
